@@ -29,7 +29,7 @@ Follow these steps to install and set up the project.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Andreaswt/hey-gen-clone.git
+[git clone https://github.com/iamvikaspatel/HeyVideo.git]
 ```
 
 ### Install Python
